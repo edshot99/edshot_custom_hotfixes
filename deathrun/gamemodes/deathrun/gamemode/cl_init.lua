@@ -17,6 +17,7 @@ include( "rtv/cl_rtv.lua" )
 
 if SERVER then return end
 
+--[[
 local name = "Dragon Dildo"
 
 language.Add( "trigger_hurt", name )
@@ -28,6 +29,7 @@ language.Add( "func_rotating", name )
 language.Add( "func_door", name )
 language.Add( "entityflame", name )
 language.Add( "prop_physics", name )
+]]--
 
 function draw.AAText( text, font, x, y, color, align )
 
