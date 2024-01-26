@@ -36,7 +36,7 @@ SWEP.WorldModel				= "models/weapons/w_eq_flashbang.mdl"	-- Weapon world model
 SWEP.Base					= "tfa_nade_base"
 SWEP.Primary.Round 			= "blast_flash"
 
-SWEP.Spawnable				= true
+SWEP.Spawnable				= false
 SWEP.UseHands				= true
 SWEP.FiresUnderwater 		= true
 

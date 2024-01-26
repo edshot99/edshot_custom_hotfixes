@@ -36,7 +36,7 @@ SWEP.WorldModel				= "models/weapons/w_pist_usp_silencer.mdl"	-- Weapon world mo
 
 SWEP.Base					= "tfa_gun_base"
 
-SWEP.Spawnable				= true
+SWEP.Spawnable				= false
 SWEP.UseHands				= false
 SWEP.FiresUnderwater 		= false
 

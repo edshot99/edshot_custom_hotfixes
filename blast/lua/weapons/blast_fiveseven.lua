@@ -36,7 +36,7 @@ SWEP.WorldModel				= "models/weapons/w_pist_fiveseven.mdl"	-- Weapon world model
 
 SWEP.Base					= "tfa_gun_base"
 
-SWEP.Spawnable				= true
+SWEP.Spawnable				= false
 SWEP.UseHands				= false
 SWEP.FiresUnderwater 		= false
 

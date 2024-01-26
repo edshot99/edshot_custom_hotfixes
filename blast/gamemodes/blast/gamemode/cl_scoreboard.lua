@@ -13,7 +13,7 @@ function scoreboard:show()
 		local winColor = Color(LocalPlayer():GetPlayerColor().x * 255, LocalPlayer():GetPlayerColor().y * 255, LocalPlayer():GetPlayerColor().z * 255, 200)
 		
 		local playerlist = vgui.Create("DListView")
-		playerlist:SetSize(ScrW() / 4, ScrH() / 2.5)
+		playerlist:SetSize(ScrW() / 1.25, ScrH() / 2.5)
 		playerlist:Center()
 		playerlist:AddColumn("Name")
 		playerlist:AddColumn("K/D Ratio")

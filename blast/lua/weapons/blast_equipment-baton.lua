@@ -36,7 +36,7 @@ SWEP.WorldModel				= "models/weapons/w_stunbaton.mdl"	-- Weapon world model
 
 SWEP.Base					= "tfa_knife_base"
 
-SWEP.Spawnable				= true
+SWEP.Spawnable				= false
 SWEP.UseHands				= false
 SWEP.FiresUnderwater 		= false
 
